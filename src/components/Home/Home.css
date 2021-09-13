@@ -1,0 +1,23 @@
+.home-heading {
+  font-size: 4.5rem;
+  text-align: center;
+  line-height: 1.5;
+  text-transform: uppercase;
+  text-decoration: black;
+  color: black;
+}
+
+.button-container {
+  text-align: center;
+  padding: 1.5rem 0;
+}
+.home-button {
+  padding: 1rem 3rem;
+  border: none;
+  background-color: #fff;
+  color: rgb(243, 21, 6);
+  font-size: large;
+  font-weight: 500;
+  text-transform: uppercase;
+  cursor: pointer;
+}

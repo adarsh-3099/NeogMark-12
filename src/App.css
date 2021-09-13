@@ -1,0 +1,57 @@
+.common-heading {
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: black;
+  margin-top: 1rem;
+  padding: 1rem 0;
+}
+.common-input {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: none;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+}
+
+.common-button {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 1rem;
+  border: none;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  background-color: #fff;
+  color: rgba(253, 198, 194, 1);
+  cursor: pointer;
+}
+
+.common-result {
+  margin-top: 1rem;
+  color: #555;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.active {
+  color: #60a5fa;
+}
+
+.input-container {
+  padding: 5px 0;
+}
+.input-container label {
+  font-weight: 300;
+}
+
+.common-radio {
+  margin-right: 10px;
+}
+
+.common-question {
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 10px 0;
+  margin: 1rem 0;
+}
